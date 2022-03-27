@@ -12,6 +12,7 @@ Kelas : TI.20.B.1<br>
 
 ![Gambar title HTML dasar](pictures/1.png)
 
-2. Kemudian langkah selanjutnya menambahkan kode untuk membuat Ordered List.
+2. Membuat Ordered List.
+*Untuk mebuat ordered list kita menggunakan misal angka atau huruf dan lainnnya, Berikut tampilanyanya.*
 
 ![Gambar title HTML dasar](pictures/2.png)
