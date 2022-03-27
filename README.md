@@ -21,3 +21,8 @@ Kelas : TI.20.B.1<br>
 *Untuk mebuat Unodered list kita menggunakan misal titik kotak atau bulat kecil dan lainnnya, Berikut tampilanyanya.*
 
 ![Gambar title HTML dasar](pictures/3.png)
+
+4. Membuat description list.
+*Kemudian membuat deklarasi list tanpa tanda didepannya, berikut tampiilanya*
+
+![Gambar title HTML dasar](pictures/4.png)
