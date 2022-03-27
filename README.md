@@ -26,3 +26,8 @@ Kelas : TI.20.B.1<br>
 *Kemudian membuat deklarasi list tanpa tanda didepannya, berikut tampiilanya*
 
 ![Gambar title HTML dasar](pictures/4.png)
+
+5. Membuat Tabel.
+*Berikut adalah contoh membuat list di dalam tabel, berikut tampilanya*
+
+![Gambar title HTML dasar](pictures/5.png)
