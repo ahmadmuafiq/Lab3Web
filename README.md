@@ -16,3 +16,8 @@ Kelas : TI.20.B.1<br>
 *Untuk mebuat ordered list kita menggunakan misal angka atau huruf dan lainnnya, Berikut tampilanyanya.*
 
 ![Gambar title HTML dasar](pictures/2.png)
+
+3. Membuat Unordered List.
+*Untuk mebuat Unodered list kita menggunakan misal titik kotak atau bulat kecil dan lainnnya, Berikut tampilanyanya.*
+
+![Gambar title HTML dasar](pictures/3.png)
