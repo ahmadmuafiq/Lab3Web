@@ -54,3 +54,9 @@ Kelas : TI.20.B.1<br>
 *selanjutnya ditahap ini saya akan membuat form, berikut tampilanya*
 
 ![Gambar title HTML dasar](pictures/8.png)
+
+9. Menambahkan Style pada Form.
+
+*Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti agar tampilanya seperti berikut.*
+
+![Gambar title HTML dasar](pictures/9.png)
