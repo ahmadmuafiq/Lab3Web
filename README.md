@@ -36,3 +36,8 @@ Kelas : TI.20.B.1<br>
 *Berikut tampilanya*
 
 ![Gambar title HTML dasar](pictures/6.png)
+
+7. Menggabungkan sel data.
+*Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom, secara horizontal. Berikut tampilanya*
+
+![Gambar title HTML dasar](pictures/7.png)
