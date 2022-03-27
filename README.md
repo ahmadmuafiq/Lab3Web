@@ -31,3 +31,8 @@ Kelas : TI.20.B.1<br>
 *Berikut adalah contoh membuat list di dalam tabel, berikut tampilanya*
 
 ![Gambar title HTML dasar](pictures/5.png)
+
+6. Mengatur Margin dan Padding.
+*Berikut tampilanya*
+
+![Gambar title HTML dasar](pictures/6.png)
